@@ -8,5 +8,5 @@ Contains few interesting real world optimization problems solved using **Python*
 3. **Food Manufacturing**: Create an optimal multi-period production plan for a product that requires a number of ingredients – each of which has different costs, restrictions, and features.
 4. **Facility Location**: Figure out the optimal locations and treatment capacity of COVID-19 healthcare facilities by minimizing the cost of opening these temporary treatment facilities, as well as the total cost of patients driving from a county to the healthcare facility.
 
-More information on Pyomo package can be obtained form:
+More information on Pyomo package can be obtained from:
 http://www.pyomo.org/
